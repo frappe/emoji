@@ -3,7 +3,7 @@ JSON File for Emojis
 
 # Usage
 ```js
-$.get('http://bit.do/api-emoji', function (data) {
+$.get('https://cdn.rawgit.com/achillesrasquinha/emoji/master/emoji', function (data) {
   // do stuff
 });
 ```
