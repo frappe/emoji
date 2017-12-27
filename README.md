@@ -3,7 +3,7 @@ JSON File for Emojis
 
 # Usage
 ```js
-$.get('git.io/frappe-emoji', function (emojis) {
+$.get('https://git.io/frappe-emoji', function (emojis) {
   // do stuff
 });
 ```
